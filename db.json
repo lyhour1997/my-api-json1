@@ -1,0 +1,102 @@
+
+{
+    "SmartWatch":[
+        {
+          "id": 1,
+          "name": "Apple Watch Series 9",
+          "price": 399,
+          "quality": "Premium",
+          "image": "https://example.com/apple-watch-series9.jpg",
+          "rating": 4.8
+        },
+        {
+          "id": 2,
+          "name": "Samsung Galaxy Watch 6",
+          "price": 349,
+          "quality": "High",
+          "image": "https://example.com/samsung-galaxy-watch6.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 3,
+          "name": "Garmin Forerunner 265",
+          "price": 449,
+          "quality": "Premium",
+          "image": "https://example.com/garmin-forerunner-265.jpg",
+          "rating": 4.6
+        },
+        {
+          "id": 4,
+          "name": "Fitbit Versa 4",
+          "price": 229,
+          "quality": "Mid-Range",
+          "image": "https://example.com/fitbit-versa4.jpg",
+          "rating": 4.4
+        },
+        {
+          "id": 5,
+          "name": "Amazfit GTR 4",
+          "price": 199,
+          "quality": "Mid-Range",
+          "image": "https://example.com/amazfit-gtr4.jpg",
+          "rating": 4.3
+        },
+        {
+          "id": 6,
+          "name": "Huawei Watch GT 3",
+          "price": 249,
+          "quality": "High",
+          "image": "https://example.com/huawei-watch-gt3.jpg",
+          "rating": 4.5
+        },
+        {
+          "id": 7,
+          "name": "TicWatch Pro 5",
+          "price": 299,
+          "quality": "High",
+          "image": "https://example.com/ticwatch-pro5.jpg",
+          "rating": 4.2
+        },
+        {
+          "id": 8,
+          "name": "Fossil Gen 6",
+          "price": 299,
+          "quality": "Mid-Range",
+          "image": "https://example.com/fossil-gen6.jpg",
+          "rating": 4.1
+        },
+        {
+          "id": 9,
+          "name": "OnePlus Watch 2",
+          "price": 199,
+          "quality": "Mid-Range",
+          "image": "https://example.com/oneplus-watch2.jpg",
+          "rating": 4.0
+        },
+        {
+          "id": 10,
+          "name": "Garmin Venu 2 Plus",
+          "price": 449,
+          "quality": "Premium",
+          "image": "https://example.com/garmin-venu2-plus.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 11,
+          "name": "Xiaomi Mi Watch S1",
+          "price": 179,
+          "quality": "Budget",
+          "image": "https://example.com/xiaomi-mi-watch-s1.jpg",
+          "rating": 4.0
+        },
+        {
+          "id": 12,
+          "name": "Realme Watch 3 Pro",
+          "price": 89,
+          "quality": "Budget",
+          "image": "https://example.com/realme-watch3-pro.jpg",
+          "rating": 3.8
+        }
+      ]
+      
+}
